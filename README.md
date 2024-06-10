@@ -52,17 +52,14 @@ A little bit about me:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/>
 </a>
 
-<a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/>
-</a>
-
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Tableau_Logo.png" alt="tableau" width="40" height="40"/>
 </a>
 
 <a href="https://mlflow.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/ta-data-berlin/ta-data-berlin-m1-done/master/MLFlow_logo.svg" alt="mlflow" width="40" height="40"/>
+  <img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="mlflow" width="40" height="40"/>
 </a>
+
 </p>
 
 
