@@ -69,7 +69,7 @@ As you (probably guessed...)
 
 🎓 i'm an Bio-Engineer in the Food-industry
 
-😻 I have twe cat's named Lex and Milou.
+😻 I have two cat's named Lex and Milou.
 
 📬 Let's connect: [LinkedIn]([https://www.linkedin.com/in/caroline-van-hoeke/])
 
