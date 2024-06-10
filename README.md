@@ -2,7 +2,7 @@ Hi I'm Caroline :wave:
 
 A little bit about me:
 
-🎒 i'm currently learning Machine Learning at [BeCode]([https://becode.org/all-trainings/pedagogical-framework-ai-data-science/])
+🎒 i'm currently learning Machine Learning at [BeCode](https://becode.org/all-trainings/pedagogical-framework-ai-data-science/)
 
 **Tools I've learned:**
 
@@ -71,7 +71,7 @@ As you (probably guessed...)
 
 😻 I have two cat's named Lex and Milou.
 
-📬 Let's connect: [LinkedIn]([https://www.linkedin.com/in/caroline-van-hoeke/])
+📬 Let's connect: [LinkedIn](https://www.linkedin.com/in/caroline-van-hoeke/)
 
 
 
