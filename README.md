@@ -65,7 +65,7 @@ A little bit about me:
 
 As you (probably guessed...)
 
-👀 i'm interested in coding, AI & Data Science, but also in Finances, Health & Sports, and much more!
+👀 i'm interested in coding, AI & Data Science, but also in Food (in general and processing), Finances, Health & Sports, and much more!
 
 🎓 i'm an Bio-Engineer in the Food-industry
 
